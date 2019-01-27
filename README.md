@@ -2,7 +2,7 @@
 
 A web app that plays music and shows visuals for it.
 
-[http://defcronyke.github.io/audio-visuals](http://defcronyke.github.io/audio-visuals)
+[https://defcronyke.github.io/audio-visuals](https://defcronyke.github.io/audio-visuals)
 
 Part of [The Eternal Void Network](https://eternalvoid.net)
 
