@@ -213,6 +213,7 @@ export default class App extends Component {
               </p>
             );
           })}
+          <p>Copyright © 2019 Jeremy Carter | <a href="https://github.com/defcronyke/audio-visuals">Source Code</a> | Part of <a href="https://eternalvoid.net">The Eternal Void Network</a></p>
         </div>
       </div>
     );
